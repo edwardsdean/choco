@@ -1,6 +1,8 @@
 #first time config accept eula
 winget list
 
+winget install -e --id=Microsoft.Office
+
 winget install -e --id M2Team.NanaZip
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk
 winget install -e --id Google.Chrome
